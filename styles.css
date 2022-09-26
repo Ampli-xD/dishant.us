@@ -5,10 +5,10 @@
 
 .Heading {
     font-family: SAMAN;
-    color: rgb(43, 77, 216);
+    color: rgb(43, 78, 217);
 }
 
 #MainFrame {
-    align-content: center;
-    border: 5px;
+    text-align: center;
+    border: 5px dotted blue;
 }
