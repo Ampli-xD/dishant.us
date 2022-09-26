@@ -10,7 +10,7 @@
 
 #MainFrame {
     text-align: center;
-    border: 5px dotted blue;
+    border: 5px dotted rgb(0, 255, 166);
     padding: max-content;
     margin: 10px;
 }
