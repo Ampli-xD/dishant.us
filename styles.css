@@ -11,6 +11,6 @@
 #MainFrame {
     text-align: center;
     border: 5px dotted blue;
-    width: max-content;
-    height: max-content;
+    padding: max-content;
+    margin: 10px;
 }
