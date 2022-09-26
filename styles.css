@@ -6,6 +6,9 @@
 .Heading {
     font-family: SAMAN;
     color: rgb(43, 77, 216);
+}
+
+#MainFrame {
     align-content: center;
     border: 5px;
 }
