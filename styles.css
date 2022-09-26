@@ -1,4 +1,8 @@
-@font-face { font-family: SAMAN; src: url('SAMAN___.TTF'); } 
+@font-face {
+    font-family: SAMAN;
+    src: url('SAMAN___.TTF') format("truetype");
+}
+
 .Heading {
     font-family: SAMAN;
     color: rgb(43, 77, 216);
