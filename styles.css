@@ -8,7 +8,11 @@
     src: url('Fonts/Coiny-Regular.ttf') format("truetype");
 }
 
-.Heading {
+a:link {
+    color: rgb(255, 238, 0);
+}
+
+#Heading {
     font-family: SAMAN;
     color: rgb(43, 78, 217);
 }
