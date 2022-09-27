@@ -1,6 +1,11 @@
 @font-face {
     font-family: SAMAN;
-    src: url('SAMAN___.TTF') format("truetype");
+    src: url('Fonts/SAMAN___.TTF') format("truetype");
+}
+
+@font-face {
+    font-family: COINY;
+    src: url('Fonts/Coiny-Regular.ttf') format("truetype");
 }
 
 .Heading {
