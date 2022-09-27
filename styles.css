@@ -20,3 +20,14 @@
     width: 100%;
     margin: 0.5%;
 }
+
+#Footer {
+    text-align: center;
+    border: 2px solid rgb(0, 255, 166);
+    height: fit-content;
+    width: 100%;
+    margin: 0%;
+    position: static;
+    font-family: COINY;
+    color: darkorange;
+}
