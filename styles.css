@@ -8,6 +8,15 @@
     src: url('Fonts/Coiny-Regular.ttf') format("truetype");
 }
 
+#bgico {
+    background-image: url('Images/DG.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #000000;
+
+}
+
+
 a:link {
     color: rgb(255, 238, 0);
 }
