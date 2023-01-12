@@ -44,3 +44,17 @@ a:link {
     font-family: COINY;
     color: darkorange;
 }
+
+.home-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .home-video {
+    width: 1429px;
+    height: 937px;
+  }
