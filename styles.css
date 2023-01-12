@@ -53,8 +53,9 @@ a:link {
     align-items: center;
     flex-direction: column;
     justify-content: flex-start;
-  }
-  .home-video {
+}
+
+.home-video {
     width: 1429px;
     height: 937px;
-  }
+}
